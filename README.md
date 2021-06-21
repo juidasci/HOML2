@@ -19,12 +19,12 @@
 
 
 ## 使用環境
-Python -- 3.8.8
-Numpy -- 1.19.5
-Pnadas -- 1.2.4
-Matplotlib -- 3.3.4
-Scikit Learn -- 0.24.2
-Jupyter Lab -- 3.0.14
+- Python -- 3.8.8
+- Numpy -- 1.19.5
+- Pnadas -- 1.2.4
+- Matplotlib -- 3.3.4
+- Scikit Learn -- 0.24.2
+- Jupyter Lab -- 3.0.14
 
 
 
